@@ -1,5 +1,9 @@
 # Corona
+Access it from :http://rupeshkumar-3150001-covidtracker.surge.sh/
 
+#Credentials
+username admin 
+password :admin
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
 ## Development server
