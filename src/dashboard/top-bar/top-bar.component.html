@@ -1,0 +1,6 @@
+
+<div *ngIf="configurationServices.showUserControls">
+    <span class="sign-out" [routerLink]="['/signin']" *ngIf="!userApi.access">SIGN IN</span>
+    <span class="sign-out" (click)="signOut()" *ngIf="userApi.access==true">SIGN OUT</span>
+ 
+    </div>

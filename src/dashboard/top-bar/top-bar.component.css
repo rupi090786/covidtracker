@@ -1,0 +1,15 @@
+:host {
+    height: 30px;
+    text-align: right;
+    padding-top: 4px;
+    color: whitesmoke;
+}
+
+div{
+    display: inline;
+    margin-left: 34px;
+}
+.sign-out{
+    margin-left: 12px;
+    cursor: pointer;
+}

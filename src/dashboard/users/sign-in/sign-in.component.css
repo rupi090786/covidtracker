@@ -1,0 +1,32 @@
+:host{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;  
+    width: 100vw;
+    background-image: url(../../../assets/medical.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+.sign-in-form {
+
+    min-width: 300px;
+    background-color: whitesmoke;
+    opacity: .93;
+    padding: 20 px;
+
+}
+a{
+
+    line-height: 32 px;
+}
+
+button{
+
+    float: right;
+}
+
+.message{
+
+    float: right;
+}
